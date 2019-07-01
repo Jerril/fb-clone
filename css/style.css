@@ -1,0 +1,48 @@
+.body-index{
+	background-color: #DADDE1;
+}
+
+.my-navbar{
+	background-color: #3B5998;
+}
+
+.my-navbar .navbar-brand{
+	font-size: 2rem;
+	color: #fff;
+}
+
+.my-navbar .navbar-brand:hover{
+	color: #fff;
+}
+
+.my-navbar input{
+	height: 23px;
+	font-size: .8rem;
+}
+
+.my-navbar label{
+	font-size: .9rem;
+}
+
+.my-navbar a.pwd-forgot{
+	opacity: .5;
+	font-size: .8rem;
+}
+
+.my-navbar .navbar-collapse button{
+	height: 23px;
+	line-height: 10px;
+	background-color:#4267B2;
+	font-size: .7rem; 
+}
+
+.sec-signup .btn-signup{
+	background-color: #609C4D;
+	font-size: 1.2rem;
+}
+
+/*.sec-signup select.form-control{
+	font-size: .7rem;
+	padding-left: .5rem;
+	padding-right: .5rem;
+}*/

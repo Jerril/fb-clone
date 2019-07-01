@@ -1,7 +1,6 @@
 <?php
-$serverName = "localhost";
+$servername = "localhost";
 $username = "root";
 $password = "";
-$dbName = "fb-clone";
-
-$conn = mysqli_connect($serverName, $userName, $password, $dbName);
+$dbname = "fb-clone";
+$conn = mysqli_connect($servername, $username, $password, $dbname);
